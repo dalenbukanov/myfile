@@ -1,0 +1,15 @@
+p {
+    color: blue;
+}
+.hi {
+    font-weight: bold;
+}
+.bye {
+    font-weight: lighter;
+}
+#mood {
+    color: red;
+}
+ul {
+    font-size: 20px;
+}
