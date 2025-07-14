@@ -1,0 +1,23 @@
+.container {
+    background: #000;
+    height: 200px;
+    width: 350px;
+}
+.text-em {
+     font-size: 3em;
+     color:#F12389;
+   }
+   .text-rem {
+     font-size: 1rem;    
+   }
+.box{
+width: 50%;
+height: 40%;
+background: #320;
+  }
+.text{
+  color: rgba(200,72,35,0.4);
+}
+.text2{
+  color: rgb(1,200,30)
+}
