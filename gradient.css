@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2 {
+  margin: 20px 0;
+}
+
+div {
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.lg1 {
+  width: 80%;
+  height: 150px;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.lg2 {
+  width: 80%;
+  height: 150px;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+}
+
+.rg1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #ff9a9e, #fad0c4);
+}
+
+.rg2 {
+  width: 300px;
+  height: 150px;
+  background: radial-gradient(ellipse at center, #a1c4fd, #c2e9fb);
+}
